@@ -13,8 +13,8 @@
   <a href="#setup">Setup</a> •
 </p>
 
-![Image 1](https://raw.githubusercontent.com/paramj0t/Amazon-2-next/master/images/1.png)  
 ![Image 1](https://raw.githubusercontent.com/paramj0t/Amazon-2-next/master/images/2.png)  
+![Image 2](https://raw.githubusercontent.com/paramj0t/Amazon-2-next/master/images/1.png)  
 ![Image 3](https://raw.githubusercontent.com/paramj0t/Amazon-2-next/master/images/3.png)
 
 ## Key Features
