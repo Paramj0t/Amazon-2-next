@@ -11,8 +11,6 @@
   <a href="#key-features">Key Features</a> •
   <a href="#key-technologies">Key Technologies</a> •
   <a href="#setup">Setup</a> •
-  <a href="#support">Support</a> •
-  <a href="#license">License</a>
 </p>
 
 ![Image 1](https://raw.githubusercontent.com/paramj0t/Amazon-2-next/master/images/1.png)  
